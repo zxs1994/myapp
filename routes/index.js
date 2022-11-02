@@ -5,14 +5,14 @@ var router = express.Router();
 /* GET home page. */
 router.get('/', function(req, res, next) {
   
-  query('SELECT * FROM city where id = ?', [6], function (err, rows, fields) {
-    if (err) throw err
+//   query('SELECT * FROM city where id = ?', [6], function (err, rows, fields) {
+//     if (err) throw err
     // res.render('index', { title: 'Express' });
     // console.log(fields)
     // console.log(rows[0])
     // res.send(rows[0])
     res.send('hello world')
-  })
+//   })
 });
 
 module.exports = router;
