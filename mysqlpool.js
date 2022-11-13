@@ -1,10 +1,10 @@
 const mysql = require('mysql')
 const pool = mysql.createPool({
   host: 'localhost',
-  port: '3307',
+  port: '3306',
   user: 'root',
   password: 'xusheng94',
-  database: 'world'
+  database: 'mysql'
 })
 
 const query = function (sql, options, callback) {
@@ -23,3 +23,4 @@ const query = function (sql, options, callback) {
 }
 
 module.exports = query
+

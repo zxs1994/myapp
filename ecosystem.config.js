@@ -11,8 +11,18 @@ module.exports = {
       },
       env_production: {
         NODE_ENV: 'production',
-//         PORT: '80'
+        //         PORT: '80'
       },
     },
   ],
+  // deploy: {
+  //   production: {
+  //     user: 'ubuntu',
+  //     host: ['43.130.193.112'],
+  //     ref: 'origin/master',
+  //     repo: 'https://github.com/zxs1994/myapp.git',
+  //     path: '/var/www/myapp',
+  //     'post-deploy': 'npm install',
+  //   },
+  // },
 }
