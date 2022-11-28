@@ -8,10 +8,11 @@ module.exports = {
       stop_exit_codes: [0], // 崩溃重启
       env: {
         NODE_ENV: 'development',
+        PORT: '8080',
       },
       env_production: {
         NODE_ENV: 'production',
-        //         PORT: '80'
+        PORT: '8080',
       },
     },
   ],

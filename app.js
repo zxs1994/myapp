@@ -6,6 +6,7 @@ var logger = require('morgan')
 
 var indexRouter = require('./routes/index')
 var usersRouter = require('./routes/users')
+var aiRouter = require('./routes/ai')
 
 var app = express()
 
@@ -24,27 +25,40 @@ app.all('*', function (req, res, next) {
   res.header('Access-Control-Allow-Origin', '*')
   res.header('Access-Control-Allow-Headers', '*')
   res.header('Access-Control-Allow-Methods', '*')
-  // res.header('Content-Type', 'application/json;charset=utf-8');
+  res.header('Content-Type', 'application/json;charset=utf-8');
   next()
 })
 
 app.use('/', indexRouter)
 app.use('/users', usersRouter)
+app.use('/ai', aiRouter)
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
-  next(createError(404))
+  // console.log(404)
+  res.status(404)
+  res.send({
+    code: 404,
+    msg: '没有这个接口',
+    result: ''
+  })
 })
 
 // error handler
 app.use(function (err, req, res, next) {
   // set locals, only providing error in development
-  res.locals.message = err.message
-  res.locals.error = req.app.get('env') === 'development' ? err : {}
+  console.log(err)
+  // res.locals.message = err.message
+  // res.locals.error = req.app.get('env') === 'development' ? err : {}
 
   // render the error page
+  console.log(err)
   res.status(err.status || 500)
-  res.render('error')
+  res.send({
+    code: res.status,
+    msg: err.message,
+    result: err.stack
+  })
 })
 
 module.exports = app

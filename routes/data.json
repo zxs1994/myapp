@@ -1,0 +1,1122 @@
+{
+  "data": {
+    "value": {
+      "content-background-color": "#ffffff",
+      "headAttributes": "",
+      "font-size": "14px",
+      "line-height": "1.5",
+      "breakpoint": "480px",
+      "fonts": [],
+      "headStyles": [],
+      "responsive": true,
+      "font-family": "lucida Grande,Verdana,Microsoft YaHei",
+      "text-color": "#a39f9f"
+    }
+  },
+  "type": "page",
+  "children": [
+    {
+      "data": {
+        "hidden": false,
+        "value": {}
+      },
+      "type": "wrapper",
+      "children": [
+        {
+          "data": {
+            "value": {}
+          },
+          "type": "advanced_image",
+          "children": [],
+          "attributes": {
+            "padding": "0px 0px 0px 0px",
+            "src": "https://desk.braininfra.com/group1/M00/00/00/CmgYJWNFObCAKzavAAGkWpgEC0A50.jpeg",
+            "align": "center",
+            "href": "https://www.uspsforever.shop",
+            "height": "auto"
+          }
+        },
+        {
+          "data": {
+            "value": {}
+          },
+          "type": "advanced_image",
+          "children": [],
+          "attributes": {
+            "padding": "0px 0px 0px 0px",
+            "src": "https://desk.braininfra.com/group1/M00/00/01/CmgYJWN8e7KAexTaAASOmcfquzs723.png",
+            "align": "center",
+            "css-class": "main-image",
+            "height": "auto"
+          }
+        },
+        {
+          "data": {
+            "value": {
+              "content": "AI TEST"
+            }
+          },
+          "type": "advanced_text",
+          "children": [],
+          "attributes": {
+            "padding": "30px 25px 30px 25px",
+            "container-background-color": "#FFFFFF",
+            "color": "#333367",
+            "font-weight": "bold",
+            "font-size": "25px",
+            "align": "center"
+          }
+        },
+        {
+          "data": {
+            "value": {}
+          },
+          "type": "advanced_image",
+          "children": [],
+          "attributes": {
+            "padding": "0px 0px 20px 0px",
+            "src": "https://desk.braininfra.com/group1/M00/00/00/CmgYJWNFM4SANLRDAAAXC2jdXrY824.png",
+            "align": "center",
+            "height": "auto"
+          }
+        },
+        {
+          "data": {
+            "value": {
+              "noWrap": true
+            }
+          },
+          "type": "section",
+          "children": [
+            {
+              "data": {
+                "value": {}
+              },
+              "type": "group",
+              "children": [
+                {
+                  "data": {
+                    "value": {}
+                  },
+                  "type": "column",
+                  "children": [
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "image",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "src": "https://desk.braininfra.com/group1/M00/00/00/CmgYJWNFN8OASbpEAAFdLyogMm042.jpeg",
+                        "align": "center",
+                        "width": "",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/U.S.-Flags-2017-Stamps",
+                        "height": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "advanced_divider",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 0px 10px 0px",
+                        "border-color": "#C9CCCF",
+                        "align": "center",
+                        "border-width": "1px",
+                        "border-style": "dashed"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "U.S. Flags 2017 Forever Stamps"
+                        }
+                      },
+                      "type": "text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "container-background-color": "",
+                        "color": "#333333",
+                        "font-weight": "700",
+                        "font-size": "18px",
+                        "line-height": "",
+                        "font-style": "italic",
+                        "align": "center",
+                        "font-family": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$58.00",
+                          "condition": {
+                            "symbol": "and",
+                            "groups": [
+                              {
+                                "symbol": "and",
+                                "groups": [
+                                  {
+                                    "right": "",
+                                    "operator": "truthy",
+                                    "left": ""
+                                  }
+                                ]
+                              }
+                            ],
+                            "enabled": false
+                          },
+                          "iteration": {
+                            "mockQuantity": 1,
+                            "enabled": false,
+                            "itemName": "item",
+                            "limit": 9999,
+                            "dataSource": ""
+                          }
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#073e7d",
+                        "font-weight": "bold",
+                        "text-decoration": "line-through",
+                        "font-size": "16px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$29.00"
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#d0021b",
+                        "font-weight": "bold",
+                        "font-size": "22px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "BUY NOW"
+                        }
+                      },
+                      "type": "button",
+                      "children": [],
+                      "attributes": {
+                        "border": "none",
+                        "padding": "10px 0px 10px 0px",
+                        "container-background-color": "",
+                        "color": "#ffffff",
+                        "font-weight": "normal",
+                        "vertical-align": "middle",
+                        "font-size": "12px",
+                        "line-height": "120%",
+                        "align": "center",
+                        "target": "_blank",
+                        "border-radius": "30px",
+                        "background-color": "#333366",
+                        "inner-padding": "10px 25px 10px 25px",
+                        "font-family": "helvetica",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/U.S.-Flags-2017-Stamps",
+                        "text-align": "center"
+                      }
+                    }
+                  ],
+                  "attributes": {
+                    "border": "1px dashed #C9CCCF",
+                    "padding": "5px 5px 5px 5px",
+                    "vertical-align": "top"
+                  }
+                },
+                {
+                  "data": {
+                    "value": {}
+                  },
+                  "type": "column",
+                  "children": [
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "image",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "src": "https://desk.braininfra.com/group1/M00/00/01/CmgYJWN15qWATPQzAAHp2Iw1fac306.png",
+                        "object-fit": "contain",
+                        "align": "center",
+                        "width": "",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/U.S.-Flags-2018-Stamps",
+                        "height": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "advanced_divider",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 0px 10px 0px",
+                        "border-color": "#C9CCCF",
+                        "align": "center",
+                        "border-width": "1px",
+                        "border-style": "dashed"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "U.S. Flags 2018 Forever Stamps"
+                        }
+                      },
+                      "type": "text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "container-background-color": "",
+                        "color": "#333333",
+                        "font-weight": "700",
+                        "font-size": "18px",
+                        "line-height": "",
+                        "font-style": "italic",
+                        "align": "center",
+                        "font-family": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$58.00",
+                          "condition": {
+                            "symbol": "and",
+                            "groups": [
+                              {
+                                "symbol": "and",
+                                "groups": [
+                                  {
+                                    "right": "",
+                                    "operator": "truthy",
+                                    "left": ""
+                                  }
+                                ]
+                              }
+                            ],
+                            "enabled": false
+                          },
+                          "iteration": {
+                            "mockQuantity": 1,
+                            "enabled": false,
+                            "itemName": "item",
+                            "limit": 9999,
+                            "dataSource": ""
+                          }
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#073e7d",
+                        "font-weight": "bold",
+                        "text-decoration": "line-through",
+                        "font-size": "16px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$29.00"
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#d0021b",
+                        "font-weight": "bold",
+                        "font-size": "22px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "BUY NOW"
+                        }
+                      },
+                      "type": "button",
+                      "children": [],
+                      "attributes": {
+                        "border": "none",
+                        "padding": "10px 0px 10px 0px",
+                        "container-background-color": "",
+                        "color": "#ffffff",
+                        "font-weight": "normal",
+                        "vertical-align": "middle",
+                        "font-size": "12px",
+                        "line-height": "120%",
+                        "align": "center",
+                        "target": "_blank",
+                        "border-radius": "30px",
+                        "background-color": "#333366",
+                        "inner-padding": "10px 25px 10px 25px",
+                        "font-family": "helvetica",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/U.S.-Flags-2018-Stamps",
+                        "text-align": "center"
+                      }
+                    }
+                  ],
+                  "attributes": {
+                    "border": "1px dashed #C9CCCF",
+                    "padding": "5px 5px 5px 5px",
+                    "vertical-align": "top"
+                  }
+                }
+              ],
+              "attributes": {
+                "vertical-align": "top",
+                "direction": "ltr"
+              }
+            }
+          ],
+          "attributes": {
+            "border": "none",
+            "padding": "10px 15px 10px 15px",
+            "background-size": "auto",
+            "background-position": "top center",
+            "background-repeat": "repeat",
+            "direction": "ltr",
+            "text-align": "center"
+          }
+        },
+        {
+          "data": {
+            "value": {
+              "noWrap": true
+            }
+          },
+          "type": "section",
+          "children": [
+            {
+              "data": {
+                "value": {}
+              },
+              "type": "group",
+              "children": [
+                {
+                  "data": {
+                    "value": {}
+                  },
+                  "type": "column",
+                  "children": [
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "image",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "src": "https://desk.braininfra.com/group1/M00/00/00/CmgYJWNFNPqAISKJAACLwIO7mV4816.png",
+                        "align": "center",
+                        "width": "",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/U.S.-Flag-Stamps-2019",
+                        "height": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "advanced_divider",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 0px 10px 0px",
+                        "border-color": "#C9CCCF",
+                        "align": "center",
+                        "border-width": "1px",
+                        "border-style": "dashed"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "U.S. Flags 2019 Forever Stamps"
+                        }
+                      },
+                      "type": "text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "container-background-color": "",
+                        "color": "#333333",
+                        "font-weight": "700",
+                        "font-size": "18px",
+                        "line-height": "",
+                        "font-style": "italic",
+                        "align": "center",
+                        "font-family": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$58.00",
+                          "condition": {
+                            "symbol": "and",
+                            "groups": [
+                              {
+                                "symbol": "and",
+                                "groups": [
+                                  {
+                                    "right": "",
+                                    "operator": "truthy",
+                                    "left": ""
+                                  }
+                                ]
+                              }
+                            ],
+                            "enabled": false
+                          },
+                          "iteration": {
+                            "mockQuantity": 1,
+                            "enabled": false,
+                            "itemName": "item",
+                            "limit": 9999,
+                            "dataSource": ""
+                          }
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#073e7d",
+                        "font-weight": "bold",
+                        "text-decoration": "line-through",
+                        "font-size": "16px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$29.00"
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#d0021b",
+                        "font-weight": "bold",
+                        "font-size": "22px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "BUY NOW"
+                        }
+                      },
+                      "type": "button",
+                      "children": [],
+                      "attributes": {
+                        "border": "none",
+                        "padding": "10px 0px 10px 0px",
+                        "container-background-color": "",
+                        "color": "#ffffff",
+                        "font-weight": "normal",
+                        "vertical-align": "middle",
+                        "font-size": "12px",
+                        "line-height": "120%",
+                        "align": "center",
+                        "target": "_blank",
+                        "border-radius": "30px",
+                        "background-color": "#333366",
+                        "inner-padding": "10px 25px 10px 25px",
+                        "font-family": "helvetica",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/U.S.-Flag-Stamps-2019",
+                        "text-align": "center"
+                      }
+                    }
+                  ],
+                  "attributes": {
+                    "border": "1px dashed #C9CCCF",
+                    "padding": "5px 5px 5px 5px",
+                    "vertical-align": "top"
+                  }
+                },
+                {
+                  "data": {
+                    "value": {}
+                  },
+                  "type": "column",
+                  "children": [
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "image",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "src": "https://desk.braininfra.com/group1/M00/00/01/CmgYJWN15sqAcUvhAAESjg8UjWk064.png",
+                        "align": "center",
+                        "width": "",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/U.S.-Flags-2022-Stamps",
+                        "height": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "advanced_divider",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 0px 10px 0px",
+                        "border-color": "#C9CCCF",
+                        "align": "center",
+                        "border-width": "1px",
+                        "border-style": "dashed"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "U.S. Flags 2022 Forever Stamps"
+                        }
+                      },
+                      "type": "text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "container-background-color": "",
+                        "color": "#333333",
+                        "font-weight": "700",
+                        "font-size": "18px",
+                        "line-height": "",
+                        "font-style": "italic",
+                        "align": "center",
+                        "font-family": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$58.00",
+                          "condition": {
+                            "symbol": "and",
+                            "groups": [
+                              {
+                                "symbol": "and",
+                                "groups": [
+                                  {
+                                    "right": "",
+                                    "operator": "truthy",
+                                    "left": ""
+                                  }
+                                ]
+                              }
+                            ],
+                            "enabled": false
+                          },
+                          "iteration": {
+                            "mockQuantity": 1,
+                            "enabled": false,
+                            "itemName": "item",
+                            "limit": 9999,
+                            "dataSource": ""
+                          }
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#073e7d",
+                        "font-weight": "bold",
+                        "text-decoration": "line-through",
+                        "font-size": "16px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$29.00"
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#d0021b",
+                        "font-weight": "bold",
+                        "font-size": "22px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "BUY NOW"
+                        }
+                      },
+                      "type": "button",
+                      "children": [],
+                      "attributes": {
+                        "border": "none",
+                        "padding": "10px 0px 10px 0px",
+                        "container-background-color": "",
+                        "color": "#ffffff",
+                        "font-weight": "normal",
+                        "vertical-align": "middle",
+                        "font-size": "12px",
+                        "line-height": "120%",
+                        "align": "center",
+                        "target": "_blank",
+                        "border-radius": "30px",
+                        "background-color": "#333366",
+                        "inner-padding": "10px 25px 10px 25px",
+                        "font-family": "helvetica",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/U.S.-Flags-2022-Stamps",
+                        "text-align": "center"
+                      }
+                    }
+                  ],
+                  "attributes": {
+                    "border": "1px dashed #C9CCCF",
+                    "padding": "5px 5px 5px 5px",
+                    "vertical-align": "top"
+                  }
+                }
+              ],
+              "attributes": {
+                "vertical-align": "top",
+                "direction": "ltr"
+              }
+            }
+          ],
+          "attributes": {
+            "border": "none",
+            "padding": "10px 15px 10px 15px",
+            "background-size": "auto",
+            "background-position": "top center",
+            "background-color": "",
+            "background-repeat": "repeat",
+            "direction": "ltr",
+            "text-align": "center"
+          }
+        },
+        {
+          "data": {
+            "value": {
+              "noWrap": true
+            }
+          },
+          "type": "section",
+          "children": [
+            {
+              "data": {
+                "value": {}
+              },
+              "type": "group",
+              "children": [
+                {
+                  "data": {
+                    "value": {}
+                  },
+                  "type": "column",
+                  "children": [
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "image",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "src": "https://desk.braininfra.com/group1/M00/00/00/CmgYJWNFNQ2AUCKSAAHhyqyitCg57.jpeg",
+                        "align": "center",
+                        "width": "",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/Holiday-Windows-Forever-Stamps-Book-of-20-Scott-5148",
+                        "height": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "advanced_divider",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 0px 10px 0px",
+                        "border-color": "#C9CCCF",
+                        "align": "center",
+                        "border-width": "1px",
+                        "border-style": "dashed"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "<div style=\"word-break: break-all;\">USPS Holiday Windows</div>"
+                        }
+                      },
+                      "type": "text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "container-background-color": "",
+                        "color": "#333333",
+                        "font-weight": "700",
+                        "font-size": "18px",
+                        "line-height": "",
+                        "font-style": "italic",
+                        "align": "center",
+                        "font-family": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$58.00",
+                          "condition": {
+                            "symbol": "and",
+                            "groups": [
+                              {
+                                "symbol": "and",
+                                "groups": [
+                                  {
+                                    "right": "",
+                                    "operator": "truthy",
+                                    "left": ""
+                                  }
+                                ]
+                              }
+                            ],
+                            "enabled": false
+                          },
+                          "iteration": {
+                            "mockQuantity": 1,
+                            "enabled": false,
+                            "itemName": "item",
+                            "limit": 9999,
+                            "dataSource": ""
+                          }
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#073e7d",
+                        "font-weight": "bold",
+                        "text-decoration": "line-through",
+                        "font-size": "16px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$29.00"
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#d0021b",
+                        "font-weight": "bold",
+                        "font-size": "22px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "BUY NOW"
+                        }
+                      },
+                      "type": "button",
+                      "children": [],
+                      "attributes": {
+                        "border": "none",
+                        "padding": "10px 0px 10px 0px",
+                        "color": "#ffffff",
+                        "font-weight": "normal",
+                        "vertical-align": "middle",
+                        "font-size": "12px",
+                        "line-height": "120%",
+                        "align": "center",
+                        "target": "_blank",
+                        "border-radius": "30px",
+                        "background-color": "#333366",
+                        "inner-padding": "10px 25px 10px 25px",
+                        "font-family": "helvetica",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/Holiday-Windows-Forever-Stamps-Book-of-20-Scott-5148",
+                        "text-align": "center"
+                      }
+                    }
+                  ],
+                  "attributes": {
+                    "border": "1px dashed #C9CCCF",
+                    "padding": "5px 5px 5px 5px",
+                    "vertical-align": "top"
+                  }
+                },
+                {
+                  "data": {
+                    "value": {}
+                  },
+                  "type": "column",
+                  "children": [
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "image",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "src": "https://desk.braininfra.com/group1/M00/00/00/CmgYJWNFNRKAXkFFAADqEgikhXQ601.png",
+                        "align": "center",
+                        "width": "",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/USPS-Forever-Stamps-Christmas-Carols-Book-of-20-Forever-Postage-Stamps",
+                        "height": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {}
+                      },
+                      "type": "advanced_divider",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 0px 10px 0px",
+                        "border-color": "#C9CCCF",
+                        "align": "center",
+                        "border-width": "1px",
+                        "border-style": "dashed"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "<div style=\"word-break: break-all;\">USPS Christmas Carols</div>"
+                        }
+                      },
+                      "type": "text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "0px 0px 0px 0px",
+                        "container-background-color": "",
+                        "color": "#333333",
+                        "font-weight": "700",
+                        "font-size": "18px",
+                        "line-height": "",
+                        "font-style": "italic",
+                        "align": "center",
+                        "font-family": ""
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$58.00",
+                          "condition": {
+                            "symbol": "and",
+                            "groups": [
+                              {
+                                "symbol": "and",
+                                "groups": [
+                                  {
+                                    "right": "",
+                                    "operator": "truthy",
+                                    "left": ""
+                                  }
+                                ]
+                              }
+                            ],
+                            "enabled": false
+                          },
+                          "iteration": {
+                            "mockQuantity": 1,
+                            "enabled": false,
+                            "itemName": "item",
+                            "limit": 9999,
+                            "dataSource": ""
+                          }
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#073e7d",
+                        "font-weight": "bold",
+                        "text-decoration": "line-through",
+                        "font-size": "16px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "$29.00"
+                        }
+                      },
+                      "type": "advanced_text",
+                      "children": [],
+                      "attributes": {
+                        "padding": "10px 25px 10px 25px",
+                        "color": "#d0021b",
+                        "font-weight": "bold",
+                        "font-size": "22px",
+                        "align": "center"
+                      }
+                    },
+                    {
+                      "data": {
+                        "value": {
+                          "content": "BUY NOW"
+                        }
+                      },
+                      "type": "button",
+                      "children": [],
+                      "attributes": {
+                        "border": "none",
+                        "padding": "10px 0px 10px 0px",
+                        "container-background-color": "",
+                        "color": "#ffffff",
+                        "font-weight": "normal",
+                        "vertical-align": "middle",
+                        "font-size": "12px",
+                        "line-height": "120%",
+                        "align": "center",
+                        "target": "_blank",
+                        "border-radius": "30px",
+                        "background-color": "#333366",
+                        "inner-padding": "10px 25px 10px 25px",
+                        "font-family": "helvetica",
+                        "href": "https://www.uspsforever.shop/collections/Stamps/products/USPS-Forever-Stamps-Christmas-Carols-Book-of-20-Forever-Postage-Stamps",
+                        "text-align": "center"
+                      }
+                    }
+                  ],
+                  "attributes": {
+                    "border": "1px dashed #C9CCCF",
+                    "padding": "5px 5px 5px 5px",
+                    "vertical-align": "top"
+                  }
+                }
+              ],
+              "attributes": {
+                "vertical-align": "top",
+                "direction": "ltr"
+              }
+            }
+          ],
+          "attributes": {
+            "border": "none",
+            "padding": "10px 15px 30px 15px",
+            "background-size": "auto",
+            "background-position": "top center",
+            "background-color": "",
+            "background-repeat": "repeat",
+            "direction": "ltr",
+            "text-align": "center"
+          }
+        },
+        {
+          "data": {
+            "value": {}
+          },
+          "type": "hero",
+          "children": [
+            {
+              "data": {
+                "value": {
+                  "content": "More styles in store"
+                }
+              },
+              "type": "button",
+              "children": [],
+              "attributes": {
+                "border": "none",
+                "padding": "10px 0px 10px 0px",
+                "container-background-color": "",
+                "color": "#ffffff",
+                "font-weight": "normal",
+                "vertical-align": "middle",
+                "font-size": "20px",
+                "line-height": "120%",
+                "align": "center",
+                "target": "_blank",
+                "border-radius": "20px",
+                "background-color": "#333366",
+                "inner-padding": "10px 25px 10px 25px",
+                "font-family": "helvetica",
+                "href": "https://www.uspsforever.shop/collections/Stamps",
+                "text-align": "center"
+              }
+            }
+          ],
+          "attributes": {
+            "padding": "100px 0px 100px 0px",
+            "vertical-align": "top",
+            "background-position": "center center",
+            "mode": "fluid-height",
+            "background-color": "",
+            "background-url": "https://desk.braininfra.com/group1/M00/00/01/CmgYJWN2AjKAeguRAAZn6-gdq9Q727.png"
+          }
+        },
+        {
+          "data": {
+            "value": {
+              "content": "<div style=\"text-align: center;\"><a href=\"https://www.uspsforever.shop\" target=\"_blank\" style=\"color: inherit; text-decoration: underline;\" tabindex=\"-1\">https://www.uspsforever.shop</a><br></div><div style=\"text-align: center;\">customerservice@uspsforever.shop</div><div style=\"text-align: center;\">&nbsp;Company address: 1388 MCELROY RD APT C7 ATLANTA, GA</div>"
+            }
+          },
+          "type": "advanced_text",
+          "children": [],
+          "attributes": {
+            "padding": "50px 25px 50px 25px",
+            "container-background-color": "",
+            "color": "#000000",
+            "align": "left"
+          }
+        }
+      ],
+      "attributes": {
+        "border": "none",
+        "padding": "0px 0px 0px 0px",
+        "background-color": "#ffffff",
+        "background-repeat": "repeat",
+        "background-url": "",
+        "direction": "ltr",
+        "text-align": "center"
+      }
+    }
+  ],
+  "attributes": {
+    "background-color": "#efeeea",
+    "width": "600px"
+  }
+}
